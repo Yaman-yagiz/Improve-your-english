@@ -1,0 +1,58 @@
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\WordMeaning.exe.config
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\WordMeaning.exe
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\WordMeaning.pdb
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\MySql.Data.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\Google.Protobuf.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\Zstandard.Net.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\Renci.SshNet.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\System.Memory.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\System.Buffers.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\MySql.Data.xml
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\obj\Debug\WordMeaning.csprojAssemblyReference.cache
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\obj\Debug\WordMeaning.exe.config
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\obj\Debug\WordMeaning.Form1.resources
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\obj\Debug\WordMeaning.Properties.Resources.resources
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\obj\Debug\WordMeaning.csproj.GenerateResource.cache
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\obj\Debug\WordMeaning.csproj.CoreCompileInputs.cache
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\obj\Debug\WordMeaning.csproj.CopyComplete
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\obj\Debug\WordMeaning.exe
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\obj\Debug\WordMeaning.pdb
+C:\Users\Oguz\source\repos\WordMeaning\WordMeaning\obj\Debug\WordMeaning.Form2.resources
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\WordMeaning.exe.config
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\WordMeaning.exe
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\WordMeaning.pdb
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\MySql.Data.dll
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\Google.Protobuf.dll
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\Zstandard.Net.dll
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\Renci.SshNet.dll
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\System.Memory.dll
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\System.Buffers.dll
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\MySql.Data.xml
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\obj\Debug\WordMeaning.csprojAssemblyReference.cache
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\obj\Debug\WordMeaning.exe.config
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\obj\Debug\WordMeaning.Form1.resources
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\obj\Debug\WordMeaning.Form2.resources
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\obj\Debug\WordMeaning.Properties.Resources.resources
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\obj\Debug\WordMeaning.csproj.GenerateResource.cache
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\obj\Debug\WordMeaning.csproj.CoreCompileInputs.cache
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\obj\Debug\WordMeaning.csproj.CopyComplete
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\obj\Debug\WordMeaning.exe
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\obj\Debug\WordMeaning.pdb
+C:\Users\Fucking Education\Desktop\WordMeaning\WordMeaning\bin\Debug\System.Numerics.Vectors.dll
